@@ -1,4 +1,4 @@
-# WhatsAppweb
+# WhatsAppweb协议
 最新whatsAppweb协议
 已实现90%的功能，添加扫号、检测号码是否存在，用于作数据筛选
 消息模块
